@@ -13,12 +13,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
         
-        print("This project is under sourcecode control")
-        print("Commit 1")
-        
-        
-        print("Commit 2")
-    }
+      print("Deleted last feature")
 
 
 }
