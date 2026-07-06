@@ -11,6 +11,8 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        
+        print("Inside ViewController")
         // Do any additional setup after loading the view.
         
         print("Deleted last feature in")
