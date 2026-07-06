@@ -13,6 +13,7 @@
 		56BB5F292FF68F5C009794C3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 56BB5F1D2FF68F5C009794C3 /* Assets.xcassets */; };
 		56BB5F2B2FF68F5C009794C3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 56BB5F202FF68F5C009794C3 /* LaunchScreen.storyboard */; };
 		56BB5F2C2FF68F5C009794C3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 56BB5F222FF68F5C009794C3 /* Main.storyboard */; };
+		56FE1ACF2FFBDC14008E7771 /* LoginScreenVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56FE1ACE2FFBDC14008E7771 /* LoginScreenVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		56BB5F212FF68F5C009794C3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		56BB5F232FF68F5C009794C3 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		56BB5F242FF68F5C009794C3 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		56FE1ACE2FFBDC14008E7771 /* LoginScreenVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginScreenVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				56BB5F222FF68F5C009794C3 /* Main.storyboard */,
 				56BB5F232FF68F5C009794C3 /* SceneDelegate.swift */,
 				56BB5F242FF68F5C009794C3 /* ViewController.swift */,
+				56FE1ACE2FFBDC14008E7771 /* LoginScreenVC.swift */,
 			);
 			path = MustafaGitHubProject;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				56FE1ACF2FFBDC14008E7771 /* LoginScreenVC.swift in Sources */,
 				56BB5F262FF68F5C009794C3 /* AppDelegate.swift in Sources */,
 				56BB5F272FF68F5C009794C3 /* SceneDelegate.swift in Sources */,
 				56BB5F282FF68F5C009794C3 /* ViewController.swift in Sources */,
