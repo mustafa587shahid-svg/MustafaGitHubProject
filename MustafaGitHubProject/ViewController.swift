@@ -15,8 +15,6 @@ class ViewController: UIViewController {
         print("Inside ViewController")
         // Do any additional setup after loading the view.
         
-        print("Deleted last feature in")
-        
         print("Stagging in main")
         
         
