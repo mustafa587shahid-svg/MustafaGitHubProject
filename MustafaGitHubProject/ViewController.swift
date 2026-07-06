@@ -17,6 +17,9 @@ class ViewController: UIViewController {
         
         print("Deleted last feature in")
         
+        print("Stagging in main")
+        
+        
     }
 }
 
