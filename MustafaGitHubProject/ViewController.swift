@@ -13,7 +13,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
         
-        print("Deleted last feature")
+        print("Deleted last feature in")
         
     }
 }
