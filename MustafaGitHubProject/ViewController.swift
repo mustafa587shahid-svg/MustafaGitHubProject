@@ -16,9 +16,7 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
         
         print("Stagging in main")
-        
-        print("Now i am working on the main project after stashing my previoius work")
-    
+        print("This is my second branch")
         
     }
 }
