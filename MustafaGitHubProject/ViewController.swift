@@ -18,10 +18,7 @@ class ViewController: UIViewController {
         print("Stagging in main")
         
         print("Now i am working on the main project after stashing my previoius work")
-        
-        
-        print("Stashing in main: it is actually like save a copy on your local disk so later you can restore it")
-        
+    
         
     }
 }
