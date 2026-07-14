@@ -13,7 +13,7 @@ class LoginScreenVC: UIViewController {
         super.viewDidLoad()
 
         // Do any additional setup after loading the view.
-        print("login screen vc in second branch")
+       
     }
     
 

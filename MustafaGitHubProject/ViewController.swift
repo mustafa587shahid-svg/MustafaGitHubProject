@@ -12,11 +12,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        print("Inside ViewController")
-        // Do any additional setup after loading the view.
         
-        print("Stagging in main")
-        print("This is my second branch")
         
     }
 }
